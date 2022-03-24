@@ -1,5 +1,5 @@
 # Sound-Board
-A simple JavaScript project.
+A simple JavaScript project..
 
 You can check here: https://sound-board-khusamayasir.netlify.app/
 
